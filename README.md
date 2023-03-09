@@ -8,7 +8,7 @@ char *mystradd(char *origin, char *addition)
 int mystrfind(char *origin, char *substr)
 ```
 
-- Call all functions on `strlib.c` from the `main.c` file
+- Call all functions on `strlib.c` from the `static-linking.c` file
 
 - Your program needs to support the following arguments. Check the following examples for expected output:
 ```
